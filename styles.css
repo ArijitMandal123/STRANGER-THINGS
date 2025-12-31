@@ -1605,7 +1605,7 @@ body {
     transform: translateY(-10px);
 }
 
-.vecna-hover .hover-card-bg { background: url('assets/vecna.png') center/cover, linear-gradient(135deg, #2a0a1a 0%, #1a0a2a 50%, #0a0a1a 100%); }
+.vecna-hover .hover-card-bg { background: url('assets/Vecna.png') center/cover, linear-gradient(135deg, #2a0a1a 0%, #1a0a2a 50%, #0a0a1a 100%); }
 .vecna-hover:hover { box-shadow: 0 0 50px rgba(138,0,128,0.5); }
 .vecna-hover .hover-card-subtitle { color: #8a0080; }
 
@@ -1615,10 +1615,10 @@ body {
 .demogorgon-hover .hover-card-bg { background: url('assets/demogorgon.png') center/cover, linear-gradient(135deg, #1a0000 0%, #2a0a0a 100%); }
 .demogorgon-hover:hover { box-shadow: 0 0 50px rgba(139,0,0,0.6); }
 
-.demodog-hover .hover-card-bg { background: url('assets/demodogs.png') center/cover, linear-gradient(135deg, #1a0a00 0%, #2a1a0a 50%, #1a0500 100%); }
-.demobat-hover .hover-card-bg { background: url('assets/demobats.png') center/cover, linear-gradient(135deg, #0a0a15 0%, #1a1a2a 50%, #0a0510 100%); }
-.spider-hover .hover-card-bg { background: url('assets/spider_monster.png') center/cover, linear-gradient(135deg, #2a0a0a 0%, #1a0505 50%, #0a0000 100%); }
-.hospital-hover .hover-card-bg { background: url('assets/hospital_monster.png') center/cover, linear-gradient(135deg, #1a1a1a 0%, #2a1a1a 50%, #1a0a0a 100%); }
+.demodog-hover .hover-card-bg { background: url('assets/Demodogs.png') center/cover, linear-gradient(135deg, #1a0a00 0%, #2a1a0a 50%, #1a0500 100%); }
+.demobat-hover .hover-card-bg { background: url('assets/Demobats.png') center/cover, linear-gradient(135deg, #0a0a15 0%, #1a1a2a 50%, #0a0510 100%); }
+.spider-hover .hover-card-bg { background: url('assets/Spider_Monster.png') center/cover, linear-gradient(135deg, #2a0a0a 0%, #1a0505 50%, #0a0000 100%); }
+.hospital-hover .hover-card-bg { background: url('assets/Hospital_Monster.png') center/cover, linear-gradient(135deg, #1a1a1a 0%, #2a1a1a 50%, #1a0a0a 100%); }
 .flayed-hover .hover-card-bg { background: url('assets/flayed.png') center/cover, linear-gradient(135deg, #1a1a0a 0%, #2a2a1a 50%, #1a1a05 100%); }
 .vines-hover .hover-card-bg { background: url('assets/vines.png') center/cover, linear-gradient(135deg, #0a1a0a 0%, #1a2a1a 50%, #051a05 100%); }
 .slug-hover .hover-card-bg { background: url('assets/slugs.png') center/cover, linear-gradient(135deg, #1a1a2a 0%, #0a0a1a 100%); }
