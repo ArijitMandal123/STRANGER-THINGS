@@ -1,7 +1,7 @@
 # 🔥 STRANGER THINGS - Season 5 Landing Page
 
 A dark, atmospheric, and visually stunning landing page tribute to the Netflix series **Stranger Things**, featuring advanced CSS animations, hover effects, and dynamic visual elements. This non-commercial project showcases modern web design techniques and creative storytelling through code.
-
+- **Website Previous**: [STRANGER-THINGS](https://arijitmandal123.github.io/STRANGER-THINGS/)
 ![Stranger Things Website](main_website2.png)
 
 ## ✨ Features
@@ -187,7 +187,6 @@ This project is open source and available for educational purposes. Please respe
 ## 🔗 Links
 
 - **GitHub Repository**: [STRANGER-THINGS](https://github.com/ArijitMandal123/STRANGER-THINGS)
-- **Netflix Stranger Things**: [Official Site](https://www.netflix.com/title/80057281)
 
 ---
 
